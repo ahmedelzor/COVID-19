@@ -1,0 +1,69 @@
+.dark{
+    background-color: black !important;
+    background-size: 100% auto;
+    color: #333333;
+   
+}
+.navbar{
+    background-color: transparent;
+    transition: all 1s;
+}
+.memo {
+    color: darkred !important;
+}
+h1{
+    font-size: xx-large;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+}
+h6 ,h5 ,h4{
+    font-weight: bold;
+    color: darkblue ;
+}
+.ahmed{
+    width: 600px;
+    height: 500px;
+    margin-top: 80px;
+    
+}
+#about .list-group{
+    margin-left: 30px;
+    width: 400px;
+    box-shadow: 10%;
+    
+   
+}
+#about .list-group i{
+    margin-left: 2px;
+}
+.home1{
+    margin-top: 80px;
+}
+.imgimg{
+    float: right;
+    border-radius: 50%;
+    width: 80px;
+}
+.emo{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(202, 195, 195);
+    padding: 10px;
+    
+}
+.emo h5{
+    color: #333;
+}
+#FAQ ul{
+    list-style-type: none;
+
+}
+.go{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 80px;
+    height: 30px;
+    opacity: 0;
+    
+}
+    

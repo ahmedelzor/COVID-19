@@ -21,9 +21,10 @@ h6 ,h5 ,h4{
     color: darkblue ;
 }
 .ahmed{
-    width: 600px;
-    height: 500px;
-    margin-top: 80px;
+    width: 500px;
+    height: 400px;
+    
+    
     
 }
 #about .list-group{
@@ -37,7 +38,7 @@ h6 ,h5 ,h4{
     margin-left: 2px;
 }
 .home1{
-    margin-top: 80px;
+    margin-top: 100px;
 }
 .imgimg{
     float: right;
@@ -59,11 +60,18 @@ h6 ,h5 ,h4{
 }
 .go{
     position: fixed;
-    right: 10px;
-    bottom: 10px;
+    right: 0px;
+    bottom: 0px;
     width: 80px;
     height: 30px;
     opacity: 0;
     
+}
+@media(max-width : 500px){
+    .ahmed{
+        width: 270px;
+        height: 300px;
+        margin-top: 80px;
+    }
 }
     
